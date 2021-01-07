@@ -168,6 +168,9 @@
 
     <dependencyManagement>
         <dependencies>
+            <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
+
+
             <dependency>
                 <groupId>com.facebook.presto</groupId>
                 <artifactId>presto-testing-docker</artifactId>
